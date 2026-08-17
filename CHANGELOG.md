@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-03)
+## Unreleased (2026-08-17)
+
+<section class="features">
+
+### Features
+
+-   [`b2039e6`](https://github.com/stdlib-js/stdlib/commit/b2039e6545f5ab4d215b7f96eecef41c85bdfb7f) - add C implementation for `stats/base/ndarray/dnanmax` [(#14360)](https://github.com/stdlib-js/stdlib/pull/14360)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`b2039e6`](https://github.com/stdlib-js/stdlib/commit/b2039e6545f5ab4d215b7f96eecef41c85bdfb7f) - **feat:** add C implementation for `stats/base/ndarray/dnanmax` [(#14360)](https://github.com/stdlib-js/stdlib/pull/14360) _(by Ujjwal Verma, Athan Reines)_
 -   [`0f24d0d`](https://github.com/stdlib-js/stdlib/commit/0f24d0d9f742c471f083ad6c00df814e05053d12) - **docs:** update descriptions and comments [(#13451)](https://github.com/stdlib-js/stdlib/pull/13451) _(by Philipp Burckhardt)_
 -   [`46ec186`](https://github.com/stdlib-js/stdlib/commit/46ec186fcbd6df60f64a58f504b661a63bc5cd47) - **docs:** update description _(by Athan Reines)_
 -   [`efb8640`](https://github.com/stdlib-js/stdlib/commit/efb8640d97dfffd8897418dcea2e4df1481ca6fc) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
@@ -27,11 +38,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
+-   Ujjwal Verma
 
 </section>
 
